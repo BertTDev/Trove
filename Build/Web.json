@@ -1,6 +1,6 @@
 {
 "companyName": "BertT",
-"productName": "Trove-v0",
+"productName": "Trove",
 "productVersion": "0.1",
 "dataUrl": "Web.data.unityweb",
 "wasmCodeUrl": "Web.wasm.code.unityweb",
